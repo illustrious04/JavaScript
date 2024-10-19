@@ -1,0 +1,11 @@
+console.log("Hello JavaScript Lets create a user module");
+
+const accountId = 123456789;
+let accountEmail = "abdsuyashgmail.com";
+var accountPassword = 21212121;
+accountCity = "jaipur";
+let accountState;
+
+console.log(accountEmail);
+
+console.table([accountId, accountEmail, accountPassword, accountCity, accountState]);
